@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    {
+      "username": "Ada",
+      "email": "ada@lovelace.se",
+      "password": "pwd123"
+    }
+  ]
+}
